@@ -3,4 +3,4 @@ This is a demonstration of unsupervised learning (a subtype of machine learning)
 
 A working knowledge of unsuspervised learning is highly recommended to navigate the code, although having a quick reference to the terms will at least help you get through it.
 
-The code itself has plenty of comments and should mostly be self-explanatory for users of Python the accompanying plugins. 
+The code itself has plenty of comments and should mostly be self-explanatory for users of Python and the accompanying plugins. 
